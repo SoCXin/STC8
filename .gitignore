@@ -12,13 +12,12 @@ Debug
 *#
 Change*
 CHANGE*
-README*
 COPY*
 *CONTRIBU*
 LICENSE*
 HACKING*
 Doxyfile
-README*
+# README*
 *.swp
 *.lck
 *.log
@@ -43,10 +42,10 @@ README*
 *.odg
 *.csv
 *.xml
-*.pdf
+# *.pdf
 *.zip
 *.xcf
-*.png
+# *.png
 *.jpg
 *.rst
 *.srec
@@ -67,7 +66,7 @@ README*
 doc
 *dox
 tests
-docs
+# docs
 # mk
 *.d
 *.o
@@ -75,7 +74,7 @@ docs
 *.lnp
 *.axf
 *.dbg*
-*.md
+# *.md
 *.so
 *.dcm
 *32g*
